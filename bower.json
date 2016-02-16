@@ -1,0 +1,8 @@
+{
+    "name": "ui-tinytbl-scroller",
+    "version": "1.0.0",
+    "main": ["./jquery.ui.tinytbl.js","./jquery.ui.tinytbl.css","./perfect-scrollbar.js","./perfect-scrollbar.css"],
+    "dependencies": {
+        "jquery": ">=1.10.2"
+    }
+}
